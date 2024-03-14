@@ -62,7 +62,7 @@ void insertionsort() {                                           // Prosedure In
 
 void display() {                                                 // Prosedure Display
 	cout << endl;                                               // Output baris kosong
-	cout << "\n================================" << endl;       // Output ke layar
+	cout << "\n==================================" << endl;       // Output ke layar
 	cout << " Element Array yang telah tersusun" << endl;       // Output ke layar
 	cout << "==================================" << endl;       // Ouput ke layar
 
